@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "123456086642",
+    "firebase_url": "https://mafiaquest-7576d.firebaseio.com",
+    "project_id": "mafiaquest-7576d",
+    "storage_bucket": "mafiaquest-7576d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456086642:android:5b00ae3dee5d5ad7",
+        "android_client_info": {
+          "package_name": "com.Surs.MafiaQuest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456086642-dedeb91rgn3v0v3q0ak6d2t76s2ubn1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Surs.MafiaQuest",
+            "certificate_hash": "768be686dd4484b6069e30567ff49408c6f539a2"
+          }
+        },
+        {
+          "client_id": "123456086642-1tfi4hb86e5j7afh1pqltbr34ot48imb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "123456086642-1tfi4hb86e5j7afh1pqltbr34ot48imb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF6d7gaG-FdHR0Pp9IkpQDv4ebCvUOh94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456086642-1tfi4hb86e5j7afh1pqltbr34ot48imb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
